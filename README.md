@@ -2,4 +2,5 @@
 
 Hey guys,Welcome!
 This is Taruni.
-And I will be publishing my projects here soon!!
+I'm posting my first ever project here.
+It's about a quiz on how much my people know about me.
