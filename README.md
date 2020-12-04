@@ -3,4 +3,4 @@
 Hey guys,Welcome!
 This is Taruni.
 I'm posting my first ever project here.
-It's about a quiz on how much my people know about me.
+It's a CLI quiz built using nodeJS on how much my people know about me.
